@@ -1,0 +1,213 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: "gilroy",sans-serif; 
+}
+
+#a{
+
+    width: 100%;
+    height: 100%;
+    background-color: #928181;
+}
+#a1{
+    width: 100%;
+    height: 70%;
+    background-image: url("https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#a1 h4{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 10px;
+}
+#a2{
+
+    width: 100%;
+    height: 30%;
+    background-color: white;
+     
+     
+      
+}
+
+#a2 h2{
+    font-size: 10px;
+    font-weight: bold;
+     padding-top: 20px;
+    padding-left:40px;
+}
+
+#a2 p{
+    font-size: 8px;
+    padding-left: 45px;
+    padding-top: 15px;
+     
+}
+
+#b{
+    width: 100%;
+    height: 100%;
+    background-color: #776c6c;
+
+}
+
+#nav{
+    width: 100%;
+    height: 10%;
+    background-color:yellow;
+    display: flex;
+   color: rgb(155, 141, 141);
+   font-size: 10px;
+   justify-content: center;
+   align-items: center;
+
+}
+
+#center{
+    width: 100%;
+    height: 70%;
+     background-color: white;
+      
+}
+
+#p{
+    width: 100%;
+    
+    background-color: transparent;
+    font-size: 10px; 
+    padding-left:30px;
+     padding-top: 3px;
+
+
+}
+#q{
+    width: 100%;
+    
+    background-color: transparent;
+    font-size: 10px; 
+    padding-left:30px;
+     
+
+}
+
+#r{
+    padding-left:40px ;
+    padding-right: 10px;
+    margin: 5%;
+}
+
+#r1{
+    width: 100%;
+    height: 50px;
+    background-color:white;
+    display: flex;
+    margin: 5px;
+    justify-content: space-between;
+}
+
+#r11{
+    width: 25%;
+    height: 100%;
+    background-image: url("https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=1465&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-position: center;
+}
+
+#r22{
+    width: 25%;
+    height: 100%;
+    background-image: url("https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhlYWRwaG9uZXN8ZW58MHx8MHx8fDA%3D");
+    background-size: cover;
+    background-position: center;
+}
+
+ 
+
+#r33{
+    width: 25%;
+    height: 100%;
+    background-image: url("https://media.istockphoto.com/id/1403897241/photo/university-students-studying-together-in-the-library.webp?b=1&s=170667a&w=0&k=20&c=ovuOKldshFMyYkV3n_Wa5eFVnly8Ab3iRBs_XtFinNg=");
+    background-size: cover;
+    background-position: center;
+}
+
+#r44{
+    width: 25%;
+    height: 100%;
+    
+    background-image: url("https://media.istockphoto.com/id/1445709719/photo/phone-social-media-and-music-with-a-woman-in-the-city-using-her-mobile-for-streaming-audio-or.webp?b=1&s=170667a&w=0&k=20&c=HqXzIeni_Ug8oEJVBlS7JMjlTNVEdgnWC7tUXgw_M-U=");
+    background-size: cover;
+    background-position: center;
+}
+#r2{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(53, 50, 50);
+    display: flex;
+}
+
+
+
+
+#r111{
+    width: 25%;
+    height: 100%;
+    background-image: url("https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=1465&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-position: center;
+}
+
+#r222{
+    width: 25%;
+    height: 100%;
+    background-image: url("https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhlYWRwaG9uZXN8ZW58MHx8MHx8fDA%3D");
+    background-size: cover;
+    background-position: center;
+}
+
+ 
+
+#r333{
+    width: 25%;
+    height: 100%;
+    background-image: url("https://media.istockphoto.com/id/1403897241/photo/university-students-studying-together-in-the-library.webp?b=1&s=170667a&w=0&k=20&c=ovuOKldshFMyYkV3n_Wa5eFVnly8Ab3iRBs_XtFinNg=");
+    background-size: cover;
+    background-position: center;
+}
+
+#r444{
+    width: 25%;
+    height: 100%;
+    
+    background-image: url("https://media.istockphoto.com/id/1445709719/photo/phone-social-media-and-music-with-a-woman-in-the-city-using-her-mobile-for-streaming-audio-or.webp?b=1&s=170667a&w=0&k=20&c=HqXzIeni_Ug8oEJVBlS7JMjlTNVEdgnWC7tUXgw_M-U=");
+    background-size: cover;
+    background-position: center;
+}
+#foot{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    background-color: yellow;
+    color: white;
+}
+
+#s:hover{
+ color: red;
+ background-color: cornsilk;
+}
+ 
